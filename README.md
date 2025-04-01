@@ -1,2 +1,3 @@
 # chip-yield-ai
 AI-driven photolithography troubleshooting for defect reduction and yield optimization in semiconductor manufacturing.
+This repository showcases case studies and technical solutions for defect reduction and yield improvement in semiconductor photolithography. It features root cause analyses of overlay misalignment and high defect rates, along with AI-driven approaches using Convolutional Neural Networks (CNN) for automated defect classification. Data integration, cross-functional collaboration, and predictive analytics play a central role in the process optimization strategies presented here.
